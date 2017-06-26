@@ -1,15 +1,9 @@
-# Commit
-
-with git
+# commit
 
 ## Why
-
-git is great.
-
+To commit changes that have been made in text editor
 ## How
-
-to use git.
+git commit -m "description"
 
 ## When
-
-to use git.
+after you add file (git add)
